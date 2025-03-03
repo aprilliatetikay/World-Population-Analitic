@@ -17,7 +17,7 @@ The world's population is constantly evolving, influenced by factors like migrat
 ✅ Utilizing SQL queries for data filtering, aggregation, and visualization.
 
 By leveraging SQL, this project enables us to explore how different countries' populations are changing and what factors influence these shifts.
-📖 Baca artikel saya lebih lanjut di: https://medium.com/@tetikaypriliya/world-population-analysis-using-posgresql-60ca56af5371
+
 ---
 
 ## 📂 2. Dataset Overview
