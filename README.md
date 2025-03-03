@@ -99,3 +99,5 @@ This project demonstrates how PostgreSQL can be used to analyze global populatio
 - Applying machine learning to predict future demographic changes.
 
 🔎 **Explore the SQL scripts and uncover population insights to drive informed
+
+📖 Read more of my articles at:https://medium.com/@tetikaypriliya/world-population-analysis-using-posgresql-60ca56af5371
